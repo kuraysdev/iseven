@@ -1,5 +1,5 @@
 {
-  "name": "iseven",
+  "name": "better-iseven",
   "version": "1.0.0",
   "description": "Check is the number even",
   "main": "./lib",
