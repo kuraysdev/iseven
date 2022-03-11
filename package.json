@@ -12,6 +12,16 @@
     "utils",
     "util"
   ],
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuraysdev/iseven.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kuraysdev/iseven/issues"
+  },
+  "homepage": "https://github.com/kuraysdev/iseven#readme",
+
   "author": "Kurays",
   "license": "MIT"
 }
